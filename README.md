@@ -151,13 +151,11 @@ Interactive Power BI dashboard analyzing mobile phone sales by brand, model and 
 
 <div align="center">
 
-<img height="170" src="![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashishkewat&theme=shades_of_purple)
+(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashishkewat&theme=shades_of_purple)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kashishkewat&theme=shades_of_purple)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kashishkewat&theme=shades_of_purple)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kashishkewat&theme=shades_of_purple)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kashishkewat&theme=shades_of_purple&utcOffset=0)/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashishkewat&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
 </div>
 
 ---
