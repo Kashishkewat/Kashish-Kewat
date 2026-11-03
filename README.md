@@ -182,4 +182,4 @@ I'm actively looking for opportunities where I can build scalable, intelligent s
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6CCFF,100:C084FC&height=100&section=footer" width="100%" alt="Light purple footer"/>
