@@ -86,7 +86,7 @@ REST API that detects drug interactions and gives patient-safety guidance using 
 
 ---
 
-### 📩 [SMS Spam Classifier](https://github.com/Kashishkewat/REPO-NAME)
+### 📩 [SMS Spam Classifier](https://github.com/Kashishkewat/spam-message-detection-)
 
 Supervised NLP model that classifies SMS messages as spam or not spam.
 
@@ -114,7 +114,7 @@ Personalized book recommendations using collaborative filtering.
 
 ---
 
-### 📊 [Mobile Sales Analytics Dashboard](https://github.com/Kashishkewat/REPO-NAME)
+### 📊 [Mobile Sales Analytics Dashboard](https://github.com/Kashishkewat/mobile-sales-powerbi-dashboard)
 
 Interactive Power BI dashboard analyzing mobile phone sales by brand, model and city.
 
