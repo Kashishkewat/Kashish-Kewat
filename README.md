@@ -86,6 +86,17 @@ REST API that detects drug interactions and gives patient-safety guidance using 
 
 ---
 
+### 🏦 Banking Customer Churn Analytics | Power BI(https://github.com/Kashishkewat/bank-project-power-bi)
+
+<a href="https://github.com/Kashishkewat/bank-project-power-bi">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Project-Customer%20Churn-purple?style=for-the-badge" />
+</a>
+
+An interactive Power BI dashboard analyzing banking customer churn, retention, and customer segments.
+
+----
+
 ### 📩 [SMS Spam Classifier](https://github.com/Kashishkewat/spam-message-detection-)
 
 Supervised NLP model that classifies SMS messages as spam or not spam.
