@@ -91,7 +91,7 @@ Computer Science graduate who enjoys turning ideas into working software. I buil
         <li>OCR (Tesseract.js) to read medicine names from labels</li>
       </ul>
       <p><b>Stack:</b> Node.js · Express · Gemini API · OpenFDA · Tesseract.js</p>
-      <a href="https://github.com/Kashishkewat/REPO-NAME">🔗 View Project</a>
+      <a href="">🔗 View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>📩 SMS Spam Classifier</h3>
@@ -126,7 +126,7 @@ Computer Science graduate who enjoys turning ideas into working software. I buil
         <li>Payment method and customer rating analysis</li>
       </ul>
       <p><b>Stack:</b> Power BI · DAX · Data Visualization</p>
-      <a href="https://github.com/Kashishkewat/REPO-NAME">🔗 View Project</a>
+      <a href="https://github.com/Kashishkewat/mobile-sales-powerbi-dashboard">🔗 View Project</a>
     </td>
   </tr>
 </table>
