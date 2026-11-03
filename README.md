@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kashish%20Kewat&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20ML%20%26%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" alt="Kashish Kewat banner"/>
+<img src="<img src="https://raw.githubusercontent.com/Kashishkewat/Kashishkewat/main/banner.svg" width="100%" alt="Kashish Kewat banner"/>
+
+<div align="center">
+
+**Python · Django · Node.js · AI-powered applications**"/>
 
 <div align="center">
 
