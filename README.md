@@ -2,10 +2,6 @@
 
 <div align="center">
 
-**Python · Django · Node.js · AI-powered applications**"/>
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Python+%7C+Django+%7C+Node.js;Building+AI-powered+applications;NLP+%26+Machine+Learning+enthusiast;Open+to+Software+%2F+ML+%2F+AI+Engineer+roles" alt="Typing animation"/>
 
 <br/>
