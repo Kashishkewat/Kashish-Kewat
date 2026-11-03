@@ -149,17 +149,22 @@ Interactive Power BI dashboard analyzing mobile phone sales by brand, model and 
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashishkewat&theme=shades_of_purple" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kashishkewat&theme=midnight_purple&animation=rise&name=kashish+kewat" width="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kashishkewat&theme=shades_of_purple" width="49%" />
+<br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kashishkewat&theme=shades_of_purple" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kashishkewat&theme=midnight_purple&animation=rise" width="49%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kashishkewat&theme=shades_of_purple" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kashishkewat&theme=midnight_purple&animation=rise" width="49%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kashishkewat&theme=shades_of_purple&utcOffset=5.5" width="49%" />
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kashishkewat&theme=midnight_purple&animation=rise" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kashishkewat&theme=midnight_purple&animation=rise&utcOffset=5.5" width="49%" />
 
 </div>
 
