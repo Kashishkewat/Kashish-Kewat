@@ -1,4 +1,4 @@
-<img src="https://github.com/Kashishkewat/Kashish-Kewat/blob/main/banner.svg" width="100%" alt="Kashish Kewat banner"/>
+<img src="https://github.com/Kashishkewat/Kashish-Kewat/blob/main/banner%20(2).svg"/>
 
 <div align="center">
 
