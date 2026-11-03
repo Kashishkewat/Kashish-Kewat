@@ -86,7 +86,7 @@ REST API that detects drug interactions and gives patient-safety guidance using 
 
 ---
 
-### 🏦 Banking Customer Churn Analytics | Power BI(https://github.com/Kashishkewat/bank-project-power-bi)
+### 🏦 [Banking Customer Churn Analytics](https://github.com/Kashishkewat/bank-project-power-bi)
 
 <a href="https://github.com/Kashishkewat/bank-project-power-bi">
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi" />
