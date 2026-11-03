@@ -100,7 +100,7 @@ Supervised NLP model that classifies SMS messages as spam or not spam.
 
 ---
 
-### 📚 [Book Recommender System](https://github.com/Kashishkewat/REPO-NAME)
+### 📚 [Book Recommender System](https://github.com/Kashishkewat/book_recommender_system)
 
 Personalized book recommendations using collaborative filtering.
 
