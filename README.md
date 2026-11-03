@@ -1,4 +1,4 @@
-<img src="https://github.com/Kashishkewat/Kashish-Kewat/blob/main/banner%20(2).svg"/>
+<img src="https://github.com/Kashishkewat/Kashish-Kewat/blob/main/banner%20(3).svg"/>
 
 <div align="center">
 
