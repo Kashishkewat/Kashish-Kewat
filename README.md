@@ -115,7 +115,7 @@ Computer Science graduate who enjoys turning ideas into working software. I buil
         <li>Recommendations based on user rating similarity</li>
       </ul>
       <p><b>Stack:</b> Python · Scikit-learn · Collaborative Filtering</p>
-      <a href="https://github.com/Kashishkewat/REPO-NAME">🔗 View Project</a>
+      <a href="https://github.com/Kashishkewat/book_recommender_system">🔗 View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>📊 Mobile Sales Analytics Dashboard</h3>
