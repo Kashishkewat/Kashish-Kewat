@@ -70,7 +70,7 @@ Computer Science graduate who enjoys turning ideas into working software. I buil
 
 ## 🚀 Featured Projects
 
-### 💊 [Drug Interaction Checker](https://github.com/Kashishkewat/REPO-NAME)
+### 💊 [Drug Interaction Checker]
 
 REST API that detects drug interactions and gives patient-safety guidance using AI.
 
