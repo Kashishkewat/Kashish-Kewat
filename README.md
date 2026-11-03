@@ -102,7 +102,7 @@ Computer Science graduate who enjoys turning ideas into working software. I buil
         <li>Evaluated on accuracy, precision and recall</li>
       </ul>
       <p><b>Stack:</b> Python · Scikit-learn · NLP</p>
-      <a href="https://github.com/Kashishkewat/REPO-NAME">🔗 View Project</a>
+      <a href="https://github.com/Kashishkewat/spam-message-detection-">🔗 View Project</a>
     </td>
   </tr>
   <tr>
